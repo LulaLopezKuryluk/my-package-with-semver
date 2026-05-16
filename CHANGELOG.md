@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-16)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`e85cadc`](https://github.com/LulaLopezKuryluk/my-package-with-semver/commit/e85cadc857ab5324239d60f80a04a77c12ab7c60))
+
+
 ## v2.0.0 (2026-05-16)
 
 ### Features
